@@ -35,12 +35,12 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/naveedsec",
   linkedin: "https://www.linkedin.com/in/Naveedsec/",
-  gmail: "NaveedSec@gmail.com",
+  gmail: "Naveedkhattak1001@gmail.com",
   gitlab: false,
   facebook: false,
   medium: "",
-  instagram: "https://instagram.com/shameerkashif_",
-  stackoverflow: "https://stackoverflow.com/users/8030629/shameer-kashif",
+  instagram: "https://instagram.com/naveedsec",
+  stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
