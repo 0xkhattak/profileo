@@ -156,13 +156,13 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Punjab College",
+      schoolName: "Punjab College of College",
       logo: require("./assets/images/punjablogo.png"),
       subHeader: "ICS (Computer Science)",
-      duration: "2017 - 2019",
+      duration: "2020 - 2023",
       desc: "Complted 2 of ICS in comuter science. Took courses about Programming, Web Development and OOP...",
       descBullets: [
-        "Got 2nd position in the 1st year of college",
+        "",
       ]
     }
   ]
@@ -174,15 +174,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "FULL STACK | API: (Django|React|Next.js|DRF)", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Web Application Security Testing", //Insert stack or technology you have experience in
+      progressPercentage: "100%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "CYBER SECURITY: (Kali|AD|Metasploit|Pentest|RedTeam|ecPPtv2)",
+      Stack: "Mobile Application Security Testing",
       progressPercentage: "80%"
     },
     {
-      Stack: "DEVOPS | CLOUD: (OpenStack/|AWS|Azure|Docker|Kubernetes|Terraform|Ansible)",
+      Stack: "Network Security Testing",
       progressPercentage: "80%"
     }
   ],
