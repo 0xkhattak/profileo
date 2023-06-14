@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "hash3liZer",
+  username: "Naveedsec",
   title: "Hey 👋 Its Naveed Hussain",
   subTitle: emoji(
     "Creative and passionate DevSecOps Engineer 🚀 with experience in Cybersecurity, Cloud, Full Stack and Automation. I love to code, build, drink, break, probably drink again and build it back again </hash3liZer>."
@@ -33,9 +33,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/hash3liZer",
-  linkedin: "https://www.linkedin.com/in/hash3lizer/",
-  gmail: "me@shameerkashif.io",
+  github: "https://github.com/naveedsec",
+  linkedin: "https://www.linkedin.com/in/Naveedsec/",
+  gmail: "NaveedSec@gmail.com",
   gitlab: false,
   facebook: false,
   medium: "",
