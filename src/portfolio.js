@@ -195,17 +195,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Cybersecurity Engineer | BE",
-      company: "Horizon Tech LTD",
+      role: "Cyber Security Consultant",
+      company: "Secure Purple",
       companylogo: require("./assets/images/horizonlogo.png"),
       date: "December 2021 – Present",
       desc: "Horizon Tech provides is a Cybersecurity company based in Islamabad. They provide comprehensive security services and offers a range of cybersecurity related products. ",
     },
     {
-      role: "Full Stack Developer | Cyber Security",
-      company: "Contract (Brazil)",
+      role: "Security Researcher",
+      company: "Synack",
       companylogo: require("./assets/images/contractlogo.png"),
-      date: "2020 – 2022",
+      date: "2023 – Present",
       desc: "Worked with a client from Brazil on a contract. The contract involved developing a Cyber Security related application for Windows & Linux Operating Systems",
     },
     {
