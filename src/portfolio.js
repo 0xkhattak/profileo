@@ -23,7 +23,7 @@ const greeting = {
   username: "Naveedsec",
   title: "Hey 👋 Its Naveed Hussain",
   subTitle: emoji(
-    "I'm an Independent Security Researcher and Red Team Member at Synack Inc. With 4+ years of experience, I've identified vulnerabilities in renowned companies like Sony, Dept of Defense, Indeed, LogiTech, Dell Technologies, etc. My expertise is in web, mobile, and network security assessments as a Bug Bounty Hunter and Penetration Tester."
+    "I’m an Independent Security Researcher and Red Team Member at Synack inc. I’m currently working in the cybersecurity sector mainly as a Bug Bounty Hunter and Penetration Tester, performing web application, mobile application, and network security assessments."
   ),
   resumeLink:
     "", // Set to empty to hide the button
