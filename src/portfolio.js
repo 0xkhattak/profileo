@@ -234,13 +234,13 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/airoverflowlogo.png"),
-      projectName: "AirOverflow (Startup)",
-      projectDesc: "Worked on the platforms for CTF challenges and real time cyber simulations",
+      projectName: "Zamonga Internet (Project)",
+      projectDesc: "Zamonga Internet is a project that spreads cyber security awareness in remote areas, teaching people how to stay safe",
       footerLink: [
         //  you can add extra buttons here.
         {
-          name: "Startup Website",
-          url: "https://airoverflow.com/"
+          name: "Visit Project",
+          url: false
         }
       ]
     },
