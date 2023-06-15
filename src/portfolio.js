@@ -40,7 +40,7 @@ const socialMediaLinks = {
   facebook: false,
   medium: "",
   instagram: "https://instagram.com/naveedsec",
-  stackoverflow: "",
+  stackoverflow: false,
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -199,20 +199,20 @@ const workExperiences = {
       company: "Secure Purple",
       companylogo: require("./assets/images/horizonlogo.png"),
       date: "November 2021 – Present",
-      desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape.",
+      desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape",
     {
       role: "Security Researcher",
       company: "Synack",
       companylogo: require("./assets/images/contractlogo.png"),
       date: "2023 – Present",
-      desc: "Synack is a crowdsourced security platform that uses a network of white-hat hackers to find and fix vulnerabilities in software and systems.",
+      desc: "Synack is a crowdsourced security platform that uses a network of white-hat hackers to find and fix vulnerabilities in software and systems",
     },
     {
       role: "Security Researcher",
       company: "Hackerone",
       companylogo: require("./assets/images/upworklogo.png"),
       date: "2020 - Present",
-      desc: "HackerOne's platform allows organizations to invite a community of ethical hackers to test their systems for vulnerabilities. ",
+      desc: "HackerOne's platform allows organizations to invite a community of ethical hackers to test their systems for vulnerabilities",
     }
   ]
 };
