@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "Naveedkhattak1001@gmail.com",
   gitlab: false,
   facebook: false,
-  medium: "",
+  medium: false,
   instagram: "https://instagram.com/naveedsec",
   stackoverflow: false,
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -200,11 +200,12 @@ const workExperiences = {
       companylogo: require("./assets/images/horizonlogo.png"),
       date: "November 2021 – Present",
       desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape",
+    },
     {
       role: "Security Researcher",
       company: "Synack",
       companylogo: require("./assets/images/contractlogo.png"),
-      date: "2023 – Present",
+      date: "2023 - Present",
       desc: "Synack is a crowdsourced security platform that uses a network of white-hat hackers to find and fix vulnerabilities in software and systems",
     },
     {
