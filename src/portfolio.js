@@ -268,9 +268,9 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "1st Runner Up for Network Exploitation (Pakistan Hackathon 2021)",
+      title: "Participated in Pakistan's 1st Nationwide Cyber Security Competition",
       subtitle:
-        "Gpt 2nd position in the Network Exploitation category of Pakistan Hackathon 2021",
+        "",
       image: require("./assets/images/hackathon.jpeg"),
       imageAlt: "Ignite hackathon",
       footerLink: [
@@ -281,7 +281,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "2nd Runner Up for Speed Programming (Pakistan Hackathon 2021)",
+      title: "Certified Network Security Specialist (CNSS)",
       subtitle:
         "Gpt 3rd position in the Speed Programming category of Pakistan Hackathon 2021",
       image: require("./assets/images/hackathon2.png"),
@@ -295,14 +295,14 @@ const achievementSection = {
     },
 
     {
-      title: "Top Rated Plus Badge",
-      subtitle: "Top Rated Plus Badge on Upwork",
+      title: "Certified AppSec Practitioner(CAP) ",
+      subtitle: "",
       image: require("./assets/images/toprated.png"),
       imageAlt: "Top Rated PLus",
       footerLink: [
         {
           name: "More about Top Rated plus",
-          url: "https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges"
+          url: ""
         }
       ]
     }
