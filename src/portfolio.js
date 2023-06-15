@@ -179,11 +179,11 @@ const techStack = {
     },
     {
       Stack: "Mobile Application Security Testing",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Network Security Testing",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -198,22 +198,21 @@ const workExperiences = {
       role: "Cyber Security Consultant",
       company: "Secure Purple",
       companylogo: require("./assets/images/horizonlogo.png"),
-      date: "December 2021 – Present",
-      desc: "Horizon Tech provides is a Cybersecurity company based in Islamabad. They provide comprehensive security services and offers a range of cybersecurity related products. ",
-    },
+      date: "November 2021 – Present",
+      desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape.
     {
       role: "Security Researcher",
       company: "Synack",
       companylogo: require("./assets/images/contractlogo.png"),
       date: "2023 – Present",
-      desc: "Worked with a client from Brazil on a contract. The contract involved developing a Cyber Security related application for Windows & Linux Operating Systems",
+      desc: "Synack is a crowdsourced security platform that uses a network of white-hat hackers to find and fix vulnerabilities in software and systems.",
     },
     {
-      role: "Freelance Development & Pentest",
-      company: "Upwork/Fiverr",
+      role: "Security Researcher",
+      company: "Hackerone",
       companylogo: require("./assets/images/upworklogo.png"),
-      date: "2019 - Present",
-      desc: "I provide my freelance development and penetration testing services to various clients on freelance platforms. ",
+      date: "2020 - Present",
+      desc: "HackerOne's platform allows organizations to invite a community of ethical hackers to test their systems for vulnerabilities. ",
     }
   ]
 };
