@@ -265,7 +265,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Got acknowledged by more than 100+ well known companies for reporting security vulnerabilities in their services and products. Acknowledgments include monetary rewards, certificates, hall of fame, and swags",
 
   achievementsCards: [
     {
