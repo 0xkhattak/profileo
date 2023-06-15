@@ -50,14 +50,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "I love to code, build, drink, break, probably drink again and build it back again. Maybe the loop i am in love with. View my stack below: ",
+  subTitle: "I love to Hack, Code, drink, break, probably drink again and Hack it back again. Maybe the loop i am in love with. View my stack below: ",
   skills: [
     emoji(
       "⚡ Deliver high-end quality solutions as per your requirements (API, Web, Desktop, Linux, Windows, Cyber Security, Cloud)"
     ),
-    emoji("⚡ Deliver and manage cloud applications & services on AWS, Azure, GCP & DigitalOcean"),
+    emoji("⚡ Provides a complete manual penetration test against the web application in order to ensure its safety."),
     emoji(
-      "⚡ Deliver high-end automated solutions for your business needs (CI/CD, DevSecOps, Automation, Scripting, Scraping)"
+      "⚡ Provides IOS and Android application penetration testing in order to make the mobile app secured using manual or automated penetration testing methods to identify any vulnerability."
     )
   ],
 
