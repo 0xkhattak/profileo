@@ -199,7 +199,7 @@ const workExperiences = {
       company: "Secure Purple",
       companylogo: require("./assets/images/horizonlogo.png"),
       date: "November 2021 – Present",
-      desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape.
+      desc: "Secure Purple a cyber security and digital safety firm that provides innovative solutions and services to help organizations and individuals stay protected in the ever-evolving digital landscape.",
     {
       role: "Security Researcher",
       company: "Synack",
